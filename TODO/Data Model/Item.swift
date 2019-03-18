@@ -8,7 +8,7 @@
 
 import UIKit
 
-class Item: Codable {
-    var title  = ""
-    var done = false
-}
+//class Item: Codable {
+//    var title  = ""
+//    var done = false
+//}
